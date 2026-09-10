@@ -1,0 +1,4 @@
+interface:
+  display_name: "Historical Account Value Analyzer"
+  short_description: "Find an account’s highest historical value"
+  default_prompt: "Use $account-historical-value-analyzer to analyze my brokerage records and find the highest total account value by date."
